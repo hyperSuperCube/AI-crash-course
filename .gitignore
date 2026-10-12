@@ -5,3 +5,4 @@ __pycache__/
 venv/
 smoke_results/
 results/
+.DS_Store
